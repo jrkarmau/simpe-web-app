@@ -1,0 +1,13 @@
+1. checked what kind of plans and instructions where with fly.io.
+2. Created account and added billing info.
+3. Installed flyctl
+4. Followed the instructions and tried to deploy my older project but the free tier memory limit crashed my application. So i used this course part devopsdockeruh/simple-web-service and deployed that with command fly launch and followed instructions.
+
+
+
+Link to the running app: https://throbbing-flower-8220.fly.dev/
+
+i used the same dockerfile that is used in exercise 1.8.
+
+
+The Dockerfile i first tried and failed was same as exercise 1.15 Dockerfile
